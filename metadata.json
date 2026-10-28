@@ -1,0 +1,6 @@
+{
+  "name": "ShopLite",
+  "description": "High-performance product browsing app with infinite scroll, debounced search, favorites with undo, offline caching, and deep linking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
